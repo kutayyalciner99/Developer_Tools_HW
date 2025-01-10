@@ -1,1 +1,5 @@
-# SWPS_Exercise_Lab3
+**Exercise 1**
+```bash
+cd ~
+ls -l
+```

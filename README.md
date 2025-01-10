@@ -1,5 +1,1 @@
-**Exercise 1**
-```bash
-cd ~
-ls -l
-```
+<h1> Name: Kutay Yalciner </h1>
